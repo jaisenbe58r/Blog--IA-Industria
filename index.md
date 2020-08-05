@@ -3,7 +3,7 @@
 ![jpg](images/industria-digitalizacion.jpg)
 
 
-sector industrial en estos tiempos afronta un enorme desafío para ganar competitividad en plena transformación digital, en un mercado donde los nuevos hábitos de consumo nos obligan a reinventar una nueva forma de fabricar y visibilizar nuestros productos.
+El sector industrial en estos tiempos afronta un enorme desafío para ganar competitividad en plena transformación digital, en un mercado donde los nuevos hábitos de consumo nos obligan a reinventar una nueva forma de fabricar y visibilizar nuestros productos.
 
 Estamos abocados a una nueva relación con los clientes donde se prime la personalización y la poca estandarización del producto, dirigido a clientes cada vez más interesados en acortar los plazos obligándonos a ser más ágiles y más rápidos.
 
